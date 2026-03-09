@@ -1,11 +1,6 @@
 # BRIGHTERSPACE
 
-![Logo](./assets/banner.png)
-
-Make BrightSpace better for students. AI integration, better UI, and more 😏
-
-CRAZY PROGRESS SO FAR!!! 🤫🤫🤫🤫😵‍💫😵‍💫😵‍💫
-
+### [ Client-side RAG system for BrightSpace ] 😵‍💫
 
 Core Features:
 
