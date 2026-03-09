@@ -1,4 +1,4 @@
-# BRIGHTERSPACE
+# BrighterSpace 🤖
 
 ### [ Client-side RAG system for BrightSpace ] 😵‍💫
 
