@@ -2,6 +2,8 @@
 
 ### [ Client-side RAG system for BrightSpace ] 😵‍💫
 
+<br/>
+
 Core Features:
 
  - Semantic search + AI support. Can search up any activity from any class, any event from any calendar, and get detailed info from AI.
@@ -13,3 +15,9 @@ UI Features:
 
  - Custom banner backgrounds for dashboard and classes
  - Declutter Mode, can remove widgets per class / dashboard. Get rid of brightspace / teacher junk
+
+
+<br/>
+
+
+#### Progress: 80% ( wrapping it up ) 🟢
